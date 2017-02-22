@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Dentaldeck</string>
+    <string name="hello_world">hello world</string>
+    <string name="ortho">Orthodontics</string>
+    <string name="opf">Operative front</string>
+    <string name="action_settings">Settings</string>
+    <string name="str_next">NEXT</string>
+
+</resources>

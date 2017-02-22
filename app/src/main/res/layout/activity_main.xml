@@ -1,0 +1,66 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/grid1"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:gravity="center"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context=".MainActivity"
+    android:scrollbars="vertical">
+
+    <Button
+        android:id="@+id/btn_ob"
+        android:text="Operative Back"
+        style="@style/button"/>
+
+    <Button
+        android:id="@+id/btn_of"
+        style="@style/button"
+        android:text="Operative Front" />
+
+    <Button
+        android:id="@+id/btn_op"
+        style="@style/button"
+        android:text="Oral Pathology" />
+
+    <Button
+        android:id="@+id/btn_os"
+        style="@style/button"
+        android:text="Oral Surgery" />
+
+    <Button
+        android:id="@+id/btn_od"
+        style="@style/button"
+        android:text="Orthodontics" />
+
+    <Button
+        android:id="@+id/btn_pb"
+        style="@style/button"
+        android:text="Pediatrics Dentistry Back" />
+
+    <Button
+        android:id="@+id/btn_pf"
+        style="@style/button"
+        android:text="Pediatrics Dentistry Front" />
+
+    <Button
+        android:id="@+id/btn_pd"
+        style="@style/button"
+        android:text="Perio Dontics" />
+
+    <Button
+        android:id="@+id/btn_pm"
+        style="@style/button"
+        android:text="Pharmacology" />
+
+    <Button
+        android:id="@+id/btn_ps"
+        style="@style/button"
+        android:text="Prosthodontics" />
+</LinearLayout>
+
+
